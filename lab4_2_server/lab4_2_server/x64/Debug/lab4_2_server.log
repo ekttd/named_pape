@@ -1,0 +1,3 @@
+﻿  lab4_2_server.cpp
+C:\Users\ekate\source\repos\named_pipe\lab4_2_server\lab4_2_server\lab4_2_server.cpp(59,61): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  lab4_2_server.vcxproj -> C:\Users\ekate\source\repos\named_pipe\lab4_2_server\x64\Debug\lab4_2_server.exe
